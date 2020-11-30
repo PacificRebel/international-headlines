@@ -1,3 +1,5 @@
+Plan is to create an app which has different components on the front page, all calling different news outlets' APIs from around the world.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
